@@ -138,7 +138,7 @@
 
 	<sonar.jacoco.itReportPath>${project.basedir}/target/jacoco-it.exec</sonar.jacoco.itReportPath>
     <sonar.language>java</sonar.language>
-    <sonar.host.url>http://34.228.205.212:9000</sonar.host.url>
+    <sonar.host.url>http://3.144.91.134:9000</sonar.host.url>
 
   </properties>
   
